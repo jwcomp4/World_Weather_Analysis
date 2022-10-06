@@ -1,4 +1,4 @@
-# Challenge 6: World Weather Analysis
+# World Weather Analysis: Creating a Vacation Itinerary 
 
 ## Overall Description
 
